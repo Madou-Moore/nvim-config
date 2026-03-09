@@ -71,6 +71,7 @@ return {
           -- type = "#dcaed7",
         },
       }
+      vim.cmd.colorscheme 'vague'
     end,
   },
 }
