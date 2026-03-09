@@ -501,6 +501,7 @@ return {
       --dashboard.button('z', 'λ  > Browse Directories', ':Telescope zoxide list<CR>'),
       dashboard.button('f', 'λ  > Find file', ':Telescope find_files<CR>'),
       dashboard.button('r', 'λ  > Recent', ':Telescope oldfiles<CR>'),
+      dashboard.button('c', 'λ  > Configuration', ':edit $MYVIMRC <CR>'),
       dashboard.button('q', 'λ  > Quit', ':q<CR>'),
     }
 
