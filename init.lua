@@ -620,6 +620,7 @@ require('lazy').setup({
         },
         -- gopls = {},
         pyright = {},
+        cmake = {},
         --asm_lsp = {},
         -- rust_analyzer = {},
         --
