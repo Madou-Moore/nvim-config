@@ -20,7 +20,6 @@ return {
         show_buffer_close_icons = false,
         show_close_icon = false,
 
-        -- 👇 THIS is what you want
         offsets = {
           {
             filetype = 'neo-tree',
